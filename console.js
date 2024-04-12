@@ -1,2 +1,2 @@
-// this is a comment
+// guys, this is a comment
 console.log("mahnoor")
