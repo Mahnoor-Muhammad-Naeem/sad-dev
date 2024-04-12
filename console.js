@@ -4,4 +4,8 @@ console.log("mahnoor") //2nd time
 
 function main() {
   return null;
+  main()
 }
+
+console.log("mahnoor")
+
